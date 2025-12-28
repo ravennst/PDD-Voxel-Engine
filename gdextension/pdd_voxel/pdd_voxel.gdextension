@@ -1,0 +1,8 @@
+[configuration]
+entry_symbol = "pdd_voxel_library_init"
+compatibility_minimum = "4.1"
+reloadable = true
+
+[libraries]
+windows.debug.x86_64 = "res://gdextension/pdd_voxel/bin/windows/Debug/pdd_voxel.windows.debug.x86_64.dll"
+windows.release.x86_64 = "res://gdextension/pdd_voxel/bin/windows/Release/pdd_voxel.windows.release.x86_64.dll"

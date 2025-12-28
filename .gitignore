@@ -2,3 +2,6 @@
 .godot/
 /android/
 .vscode/
+gdextension/godot-cpp/cmake-build/
+gdextension/pdd_voxel/bin/**
+gdextension/pdd_voxel/build/**
